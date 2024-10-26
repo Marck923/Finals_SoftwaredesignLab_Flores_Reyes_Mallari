@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Marck923"]
+	url = https://github.com/Marck923/Finals_SoftwaredesignLab_Flores_Reyes_Mallari
+	fetch = +refs/heads/*:refs/remotes/Marck923/*
